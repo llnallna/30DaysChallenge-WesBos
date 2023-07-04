@@ -1,4 +1,4 @@
-#what are these?
+# what is this?
 
 + This is a 30 Day Vanilla JS Coding Challenge from <strong>Wes Bos!</strong>
 https://javascript30.com/
